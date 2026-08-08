@@ -43,7 +43,7 @@ This project analyzes a large loan-applicant dataset to answer a core business q
 4. Explore `PIVOT_ANALYSIS` to see the underlying breakdowns
 
 ## 📷 Preview
-*(Add a screenshot of your Dashboard sheet here — see the "Add screenshots" step in the setup guide)*
+*([dashboard]({ED82359A-DB25-48E7-A418-6699B1D33F02}.png)*
 
 ---
 **Author:** Anjali | Data Analytics Student
